@@ -13,3 +13,4 @@
 - 📫  Reach me at weiwei.sw.yeh@gmail.com
 - _also if I can start working on building and organizing my portfolio..._
 
+![Wei-Wei's github stats](https://github-readme-stats.vercel.app/api?username=the3dsandwich)
