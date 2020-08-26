@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋 Wei-Wei here!</h1>
 
----
-
 <p align="center">
     <i>Chicken sandwich is noice.</i>
     <br/>
