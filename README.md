@@ -7,10 +7,10 @@
     <br/>
     <b>Taiwanese | Computer Science student @ CUHK<b/>
 </p>
-* 🐱‍🏍 I'm currently president @ **[CUTSA](https://www.cutsa.com.tw)**.
-* 🐱‍👤 I've worked 2 years @ **[HKTSA](https://www.hktaiwanese.com/)** + 1 year @ **DLHRA**.
-* 🔥 I'm currently working on **JavaScript related project** (previously working on **ReactJS projects**).
-* 🎬 I'm looking to learn by collaborating with open source projects
-* 📫  Reach me at weiwei.sw.yeh@gmail.com
-* _also if I can start working on building and organizing my portfolio..._
+- 🐱‍🏍 I'm currently president @ **[CUTSA](https://www.cutsa.com.tw)**.
+- 🐱‍👤 I've worked 2 years @ **[HKTSA](https://www.hktaiwanese.com/)** + 1 year @ **DLHRA**.
+- 🔥 I'm currently working on **JavaScript related project** (previously working on **ReactJS projects**).
+- 🎬 I'm looking to learn by collaborating with open source projects
+- 📫  Reach me at weiwei.sw.yeh@gmail.com
+- _also if I can start working on building and organizing my portfolio..._
 
