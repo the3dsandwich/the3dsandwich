@@ -3,22 +3,14 @@
 <p align="center">
     <i>Chicken sandwich is noice.</i>
     <br/>
-    <b>Taiwanese | Computer Science student @ CUHK<b/>
+    <b>Taiwanese | Application Consultant @ IBN Taiwan<b/>
 </p>
 
-- 🐱‍🏍 I'm currently president @ **[CUTSA](https://www.cutsa.com.tw)**.
+- 🐱‍🏍 I've been president @ **[CUTSA](https://www.cutsa.com.tw)**.
 
   
 
-- 🐱‍👤 I've worked 2 years @ **[HKTSA](https://www.hktaiwanese.com/)** + 1 year @ **DLHRA**.
-
-  
-
-- 🔥 I'm currently working on **JavaScript related project** (previously working on **ReactJS projects**).
-
-  
-
-- 🎬 I'm looking to learn by collaborating with open source projects.
+- 🐱‍👤 I've spent 2 years with **[HKTSA](https://www.hktaiwanese.com/)** + 1 year with **DLHRA**.
 
   
 
