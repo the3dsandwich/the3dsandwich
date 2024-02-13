@@ -5,6 +5,6 @@
 - Application Consultant @ IBM Taiwan
 - Taiwanese
 
-### Resume 
+### Resume
 
-See my Resume at [resume](#)
+See my Resume at [resume](./resume/CV_WeiWei_2024.pdf)
