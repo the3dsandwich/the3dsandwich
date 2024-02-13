@@ -7,4 +7,4 @@
 
 ### Resume
 
-See my Resume at [resume](./resume/CV_WeiWei_2024.pdf)
+See my Resume [here](./resume/CV_WeiWei_2024.pdf)
