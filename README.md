@@ -1,25 +1,10 @@
-<h1 align="center">Hi there 👋 Wei-Wei here!</h1>
+# Hi there 👋 Wei-Wei here!
 
-<p align="center">
-    <i>Chicken sandwich is noice.</i>
-    <br/>
-    <b>Taiwanese | Application Consultant @ IBN Taiwan<b/>
-</p>
+### Little bit about me
 
-- 🐱‍🏍 I've been president @ **[CUTSA](https://www.cutsa.com.tw)**.
+- Application Consultant @ IBM Taiwan
+- Taiwanese
 
-  
+### Resume 
 
-- 🐱‍👤 I've spent 2 years with **[HKTSA](https://www.hktaiwanese.com/)** + 1 year with **DLHRA**.
-
-  
-
-- 📫  Reach me at weiwei.sw.yeh@gmail.com
-
-  
-
-- _also if I can start working on building and organizing my portfolio..._
-
-  
-
-![Wei-Wei's github stats](https://github-readme-stats.vercel.app/api?username=the3dsandwich)
+See my Resume at [resume](#)
