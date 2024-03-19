@@ -52,7 +52,7 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 ##### Associate Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry _(Mar. 2021 – Mar. 2022)_
 
 - Contributed to system analysis for approximately 30 system features for internet bank backend services.
-- Reverse Engineered existing system by source code analysis. Produced System Design documents. 10,000+ lines of COBOL.
+- Reverse Engineered and analyzed 10,000+ lines of COBOL source code to produce System Design documents.
 - Reduced 70% of effort to communicate specs by designing API that translate Excel file to IBM Mainframe.
 
 > **Tech Stack**: **Microsoft Excel** (system design document template), **Apache POI** (Excel file parsing), **Java Spring Boot** (API)
@@ -63,7 +63,8 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 
 #### Wedding Website | Full Stack Developer | _(Feb. 2024 – Present, [GitHub](https://github.com/the3dsandwich/hailey-and-weiwei))_
 
-- MVP for wedding website with guest signup and emailing. Developed architecture between GitHub Pages and selfhosted docker.
+- MVP for wedding website with guest signup and emailing.
+- Developed architecture between GitHub Pages and selfhosted docker.
 - Maintained a self-hosted backend with Docker Compose with automatic deployment via Portainer.
 
 > **Tech Stack**: **Next.js** (frontend), **Java Spring Boot** (backend), **Resend API** (email), **GitHub Actions** (CI/CD), **GitHub Pages** (hosting), **Docker/Portainer** (backend deployment)
@@ -71,7 +72,7 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 #### Fate Grand Automata | Open-Source Contributor (1.3k stars on GitHub) & Localization Support | _(Jul. 2020 – Present, [GitHub](https://github.com/Fate-Grand-Automata/FGA))_
 
 - Provided full Traditional Chinese localization materials for FOSS Android app. Top 5 contributors among ~20.
-- Submitted PRs to fix breaking changes when upstream updates by supplying assets and/or scripting logic in Kotlin.
+- Submitted PRs to fix breaking changes when upstream updates by supplying assets and/or code in Kotlin.
 - Provided test results to developers to assist in supporting the Taiwanese market.
 
 > **Tech Stack**: **Kotlin** (Android App), OpenCV (Image Recognition), Android Accessibly Service (clicking/swiping)
@@ -85,7 +86,7 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 
 #### HKTSA Official Website | Front End Developer | _(Sep. 2018 – Sep. 2019, Hong Kong)_
 
-- Owner of designing, deployment, and SEO to homepage of Hong Kong Taiwanese Students’ Association using Firebase hosting.
+- Owner of designing, deployment, and SEO to homepage of Hong Kong Taiwanese Students’ Association.
 
 > **Tech Stack**: **HTML**, **CSS**, Firebase Hosting, SEO
 
