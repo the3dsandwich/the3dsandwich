@@ -6,6 +6,9 @@ _Link to [my resume in .pdf format](./resume/CV_WeiWei_2024.pdf)_
 
 ---
 
+<details>
+<summary>About Me (expand for resume in markdown format)</summary>
+
 ### EDUCATION
 
 #### Bachelor of Science in Computer Science @ The Chinese University of Hong Kong (CUHK) _(Sep. 2017 – Nov. 2021, Hong Kong)_
@@ -107,3 +110,5 @@ _Link to [my resume in .pdf format](./resume/CV_WeiWei_2024.pdf)_
 [Enterprise Design Thinking Practitioner](https://www.credly.com/badges/6388c86f-ac67-489d-9eab-cb4d82e28915) _(Mar. 2022)_
 
 [COBOL Programming with VSCode](https://www.credly.com/badges/38f49698-46d6-4e37-bfa9-e8e39903c732) _(Mar. 2022)_
+
+</details>
