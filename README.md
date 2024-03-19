@@ -42,10 +42,10 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 
 ##### Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry _(Mar. 2022 - Present)_
 
-- Implemented and tested approximately 20 core banking transactional features. Assisted in developing 50% of total features.
-- Exercised Agile Development as a product owner and development team member in 10-member team by running sprints.
-- Enabled interfacing between existing frontend and modernized backend. Coordinated with the client team to develop middleware.
-- Developed toolkits that generate project code from Excel files including Java Spring Boot boilerplates and SQL DML/DDL.
+- Implemented and tested ~20 core banking backendfeatures. Assisted in developing 50% of total features.
+- Exercised Agile Development as product owner and development team member in 10-member team.
+- Enabled interfacing between existing frontend and modernized backend by implementing middleware.
+- Developed code generation toolkit from Excel files to Java Spring Boot boilerplates & SQL DML/DDL.
 
 > **Tech Stack**: **Java Spring Boot** (backend), **Jenkins** (CI), **OpenShift Container Platform** (CD), **Docker/Podman** (microservices)
 
