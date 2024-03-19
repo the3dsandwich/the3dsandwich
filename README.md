@@ -1,16 +1,14 @@
 # YEH SHANN WEI (WEI-WEI)
 
-> _Software Engineer in IBM Taiwan as Application Consultant, focus on Java Spring Boot.<br/>B.Sc. in Computer Science from The Chinese University of Hong Kong with Honors, Class of 2021._
+> _Software Engineer in IBM Taiwan as Application Consultant, focus on Java Spring Boot.<br/>B.Sc. in Computer Science from The Chinese University of Hong Kong with Honors, Class of 2021.<br/><br/>Taipei, Taiwan | weiwei.sw.yeh@gmail.com | +886-938-704-200 | [GitHub@the3dsandwich](https://github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)_
+
+_See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 
 ---
 
-_Taipei, Taiwan | weiwei.sw.yeh@gmail.com | +886-938-704-200 | [GitHub@the3dsandwich](https://github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)_
+### EDUCATION
 
-### See my [Resume](./resume/CV_WeiWei_2024.pdf)
-
-## EDUCATION
-
-### Bachelor of Science in Computer Science @ The Chinese University of Hong Kong (CUHK)
+#### Bachelor of Science in Computer Science @ The Chinese University of Hong Kong (CUHK)
 
 _Sep. 2017 – Nov. 2021, Hong Kong_
 
@@ -24,27 +22,27 @@ _Sep. 2017 – Nov. 2021, Hong Kong_
   - Data Structures (A-)
   - Principles of Programming Languages (B+)
 
-### Exchange @ University of Hawaii at Manoa
+#### Exchange @ University of Hawaii at Manoa
 
 _Jan. 2019 – Jun. 2019, Hawaii, USA_
 
-## SKILLS
+### SKILLS
 
-### Programming Languages
+#### Programming Languages
 
 > **Java** | **JavaScript** | Python | C | HTML | CSS | C# | Kotlin
 
-### Technologies
+#### Technologies
 
 > **Spring Boot** | **React.js** | **Docker**/Podman | OpenShift Container Platform | Jenkins | Redmine | Portainer | Android Studio | GitHub Actions | Apache POI | Microsoft Excel
 
-## EXPERIENCE
+### EXPERIENCE
 
-### IBM Taiwan
+#### IBM Taiwan
 
 _Mar. 2021 - Present, Taipei, Taiwan_
 
-#### Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry
+###### Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry
 
 _Mar. 2022 - Present_
 
@@ -54,7 +52,7 @@ _Mar. 2022 - Present_
 - Developed toolkits that generate project code from Excel files including Java Spring Boot boilerplates and SQL DML/DDL.
 - **Tech Stack**: **Java Spring Boot** (backend), **Jenkins** (CI), **OpenShift Container Platform** (CD), **Docker/Podman** (microservices)
 
-#### Associate Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry
+###### Associate Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry
 
 _Mar. 2021 – Mar. 2022_
 
@@ -63,9 +61,9 @@ _Mar. 2021 – Mar. 2022_
 - Reduced 70% of effort to communicate specs by designing software that translates Excel files to API calls to IBM Mainframe.
 - **Tech Stack**: **Microsoft Excel** (system design document template), **Apache POI** (Excel file parsing), **Java Spring Boot** (API)
 
-## NOTABLE PROJECTS
+### NOTABLE PROJECTS
 
-### Wedding Website
+#### Wedding Website
 
 _Full Stack Developer | Feb. 2024 – Present | [GitHub](https://github.com/the3dsandwich/hailey-and-weiwei), Personal_
 
