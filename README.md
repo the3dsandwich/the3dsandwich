@@ -2,7 +2,7 @@
 
 > _Software Engineer in IBM Taiwan as Application Consultant, focus on Java Spring Boot.<br/>B.Sc. in Computer Science from The Chinese University of Hong Kong with Honors, Class of 2021.<br/><br/>Taipei, Taiwan | [GitHub@the3dsandwich](https://github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)_
 
-_See my [Resume](./resume/CV_WeiWei_2024.pdf)_
+_Link to [my resume in .pdf format](./resume/CV_WeiWei_2024.pdf)_
 
 ---
 
