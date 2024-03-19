@@ -8,9 +8,7 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 
 ### EDUCATION
 
-#### Bachelor of Science in Computer Science @ The Chinese University of Hong Kong (CUHK)
-
-_Sep. 2017 – Nov. 2021, Hong Kong_
+#### Bachelor of Science in Computer Science @ The Chinese University of Hong Kong (CUHK) _(Sep. 2017 – Nov. 2021, Hong Kong)_
 
 - Major GPA: 3.348/4.000
 - Graduate with Honors, Second Class Upper Division
@@ -22,9 +20,7 @@ _Sep. 2017 – Nov. 2021, Hong Kong_
   - Data Structures (A-)
   - Principles of Programming Languages (B+)
 
-#### Exchange @ University of Hawaii at Manoa
-
-_Jan. 2019 – Jun. 2019, Hawaii, USA_
+#### Exchange @ University of Hawaii at Manoa _(Jan. 2019 – Jun. 2019, Hawaii, USA)_
 
 ---
 
