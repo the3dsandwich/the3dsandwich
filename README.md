@@ -1,10 +1,10 @@
 # YEH SHANN WEI (WEI-WEI)
 
-> _Software Engineer in IBM Taiwan as Application Consultant, focus on Java Spring Boot and core transformation.<br/>B.Sc. in Computer Science from The Chinese University of Hong Kong with Honors, Second Class Upper Division._
+> _Software Engineer in IBM Taiwan as Application Consultant, focus on Java Spring Boot.<br/>B.Sc. in Computer Science from The Chinese University of Hong Kong with Honors, Class of 2021._
 
 ---
 
-_Taipei, Taiwan | weiwei.sw.yeh@gmail.com | +886-938-704-200 | [GitHub@the3dsandwich](github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)_
+_Taipei, Taiwan | weiwei.sw.yeh@gmail.com | +886-938-704-200 | [GitHub@the3dsandwich](https://github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)_
 
 ### See my [Resume](./resume/CV_WeiWei_2024.pdf)
 
@@ -67,7 +67,7 @@ _Mar. 2021 – Mar. 2022_
 
 ### Wedding Website
 
-_Full Stack Developer | Feb. 2024 – Present | [GitHub](the3dsandwich/hailey-and-weiwei), Personal_
+_Full Stack Developer | Feb. 2024 – Present | [GitHub](https://github.com/the3dsandwich/hailey-and-weiwei), Personal_
 
 - MVP for wedding website with guest signup and emailing. Developed architecture between GitHub Pages and selfhosted docker.
 - Maintained a self-hosted backend with Docker Compose with automatic deployment via Portainer.
