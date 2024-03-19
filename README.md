@@ -72,7 +72,7 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 #### Fate Grand Automata | Open-Source Contributor (1.3k stars on GitHub) & Localization Support | _(Jul. 2020 – Present, [GitHub](https://github.com/Fate-Grand-Automata/FGA))_
 
 - Provided full Traditional Chinese localization materials for FOSS Android app. Top 5 contributors among ~20.
-- Submitted PRs to fix breaking changes when upstream updates by supplying assets and/or code in Kotlin.
+- Submitted PRs to fix breaking changes when upstream updates by supplying assets and/or Kotlin code.
 - Provided test results to developers to assist in supporting the Taiwanese market.
 
 > **Tech Stack**: **Kotlin** (Android App), OpenCV (Image Recognition), Android Accessibly Service (clicking/swiping)
