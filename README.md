@@ -52,8 +52,8 @@ _See my [Resume](./resume/CV_WeiWei_2024.pdf)_
 ##### Associate Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry _(Mar. 2021 – Mar. 2022)_
 
 - Contributed to system analysis for approximately 30 system features for internet bank backend services.
-- Reverse Engineered existing system by source code analysis to produce System Design documents. 10,000+ lines of COBOL.
-- Reduced 70% of effort to communicate specs by designing software that translates Excel files to API calls to IBM Mainframe.
+- Reverse Engineered existing system by source code analysis. Produced System Design documents. 10,000+ lines of COBOL.
+- Reduced 70% of effort to communicate specs by designing API that translate Excel file to IBM Mainframe.
 
 > **Tech Stack**: **Microsoft Excel** (system design document template), **Apache POI** (Excel file parsing), **Java Spring Boot** (API)
 
