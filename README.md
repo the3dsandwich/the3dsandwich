@@ -9,7 +9,7 @@ _Link to [my resume in .pdf format](./resume/CV_WeiWei_2024.pdf)_
 
 <details>
 <summary>Expand for more...</summary>
-
+<pre>
 ## EXPERIENCE
 
 ### IBM Taiwan, Taipei, Taiwan
@@ -110,4 +110,5 @@ Spring Boot | React.js | Docker/Podman | Playwright | Terraform | Spotify Backst
 
 [COBOL Programming with VSCode](https://www.credly.com/badges/38f49698-46d6-4e37-bfa9-e8e39903c732) _(Mar. 2022)_
 
+</pre>
 </details>
