@@ -1,97 +1,96 @@
 # YEH SHANN WEI (WEI-WEI)
 
-> _Software Engineer in IBM Taiwan as Application Consultant, focus on Java Spring Boot.<br/>B.Sc. in Computer Science from The Chinese University of Hong Kong with Honors, Class of 2021.<br/><br/>Taipei, Taiwan | [GitHub@the3dsandwich](https://github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)_
+**Software Engineer, System Analyst, IT Consultant**  
+Focus on Microservices, Hybrid Cloud in Java and JavaScript. <br/><br/>Taipei, Taiwan | [GitHub@the3dsandwich](https://github.com/the3dsandwich) | [LinkedIn@swyeh](https://www.linkedin.com/in/swyeh/)
 
 _Link to [my resume in .pdf format](./resume/CV_WeiWei_2024.pdf)_
 
 ---
 
 <details>
-<summary>About Me (expand for resume in markdown format)</summary>
+<summary>Expand for more...</summary>
 
-### EDUCATION
+## EXPERIENCE
 
-#### Bachelor of Science in Computer Science @ The Chinese University of Hong Kong (CUHK) _(Sep. 2017 – Nov. 2021, Hong Kong)_
+### IBM Taiwan, Taipei, Taiwan
 
-- Major GPA: 3.348/4.000
-- Graduate with Honors, Second Class Upper Division
-- Scholarships:
-  - CUHK Admission Scholarship (50% tuition)
-  - CUHK Faculty of Engineering Admission Scholarship (25% tuition)
-- Notable Courses:
-  - Software Engineering (A)
-  - Data Structures (A-)
-  - Principles of Programming Languages (B+)
+#### Retail Management System Project, E-Commerce Industry
 
-#### Exchange @ University of Hawaii at Manoa _(Jan. 2019 – Jun. 2019, Hawaii, USA)_
+_Software Engineer, System Analyst, Tester (Sep 2024 – Present)_
 
----
+- Modernized internal-facing e-commerce management system in C# .NET/Vue.js microservices with a focus on merchandise management.
+- Created test cases and results via automated and manual testing for 4 core features.
+- Proposed and provisioned automated end-to-end testing via Playwright on the CI pipeline to ensure code consistency.
+  > **Tech Stack**: TypeScript, Playwright (E2E Testing on CI), Azure DevOps (CI).
 
-### SKILLS
+#### Developer Portal Project, SRE Sector
 
-#### Programming Languages
+_Software Engineer, Infrastructure, DevOps (Nov 2024 – Dec 2024)_
 
-**Java** | **JavaScript** | Python | C | HTML | CSS | C# | Kotlin
+- Implemented working demo site based on Spotify Backstage, TypeScript, React.js to enable automated provisioning as sole developer.
+- Communicated engagement strategy and user story, including Terraform, GitLab CI, GitHub Actions, AWS provisioning.
+  > **Tech Stack**: TypeScript, React.js (frontend/backend), GitLab CI/GitHub Actions (CI/CD), Terraform (Infrastructure), Amazon AWS, Spotify Backstage (templating/provisioning), Playwright (E2E Testing on CI).
 
-#### Technologies
+#### Warehouse Management System Modernization Project, Distributor Industry
 
-**Spring Boot** | **React.js** | **Docker**/Podman | OpenShift Container Platform | Jenkins | Redmine | Portainer | Android Studio | GitHub Actions | Apache POI | Microsoft Excel
+_Software Engineer, Tester (Jul 2024 – Dec 2024)_
 
----
+- Modernized internal-facing warehouse management system in Spring Boot microservices focusing on inventory locks/assignments.
+- Proposed and implemented a data migration/verification framework achieving >99% accuracy and verifiability.
+- Prototyped end-to-end testing via Playwright to mass-produce test cases and ensure test data consistency.
+  > **Tech Stack**: Java Spring Boot (backend), Azure DevOps (CI/CD), Docker/Podman (microservices), Playwright (E2E testing).
 
-### EXPERIENCE
+#### Banking Core Modernization Project, Banking Industry
 
-#### IBM Taiwan _(Mar. 2021 - Present, Taipei, Taiwan)_
+_System Analyst, Developer, Tester (Mar 2022 – Jul 2024)_
 
-##### Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry _(Mar. 2022 - Present)_
-
-- Implemented and tested ~20 core banking backendfeatures. Assisted in developing 50% of total features.
-- Exercised Agile Development as product owner and development team member in 10-member team.
-- Enabled interfacing between existing frontend and modernized backend by implementing middleware.
-- Developed code generation toolkit from Excel files to Java Spring Boot boilerplates & SQL DML/DDL.
-
-> **Tech Stack**: **Java Spring Boot** (backend), **Jenkins** (CI), **OpenShift Container Platform** (CD), **Docker/Podman** (microservices)
-
-##### Associate Application Consultant in Core Modernization Project, Taiwanese Client in Banking Industry _(Mar. 2021 – Mar. 2022)_
-
-- Contributed to system analysis for approximately 30 system features for internet bank backend services.
-- Reverse Engineered and analyzed 10,000+ lines of COBOL source code to produce System Design documents.
-- Reduced 70% of effort to communicate specs by designing API that translate Excel file to IBM Mainframe.
-
-> **Tech Stack**: **Microsoft Excel** (system design document template), **Apache POI** (Excel file parsing), **Java Spring Boot** (API)
+- Modernized public-facing banking backend in Spring Boot microservices focusing on internet/mobile banks.
+- Exercised Agile methodologies as a product owner and developer in a 10-member team.
+- Reduced >70% communication effort by designing a tool that translates Excel files to API calls to IBM Mainframe.
+- Reverse-engineered 10,000+ lines of COBOL code to produce system design documents for 30+ features.
+- Developed 50% of features in the project scope and owned approximately 20 internet banking transactional features.
+- Coordinated middleware development for interfacing between the frontend and modernized backend.
+  > **Tech Stack**: Java Spring Boot (backend API), Jenkins (CI), OpenShift Container Platform (CD), Docker/Podman (microservices), Excel (system design document template), Apache POI (Excel file parsing).
 
 ---
 
-### NOTABLE PROJECTS
+## NOTABLE PROJECTS
 
-#### Wedding Website | Full Stack Developer | _(Feb. 2024 – Present, [GitHub](https://github.com/the3dsandwich/hailey-and-weiwei))_
+### Wedding Website
 
-- MVP for wedding website with guest signup and emailing.
-- Developed architecture between GitHub Pages and selfhosted docker.
-- Maintained a self-hosted backend with Docker Compose with automatic deployment via Portainer.
+_Full Stack Developer (Feb 2024 – Present)_
 
-> **Tech Stack**: **Next.js** (frontend), **Java Spring Boot** (backend), **Resend API** (email), **GitHub Actions** (CI/CD), **GitHub Pages** (hosting), **Docker/Portainer** (backend deployment)
+- My wedding website with guest signup and emailing features using Java Spring Boot (backend) and React.js (frontend).
+- Maintained CI/CD pipeline with GitHub Actions, deploying Docker images via Portainer.
+  > **Tech Stack**: Next.js (frontend), Java Spring Boot (backend), GitHub Actions (CI/CD), Docker/Portainer (backend deployment), GitHub Pages (hosting), Resend API (email).
+- [Wedding Website Project](https://github.com/the3dsandwich/hailey-and-weiwei)
 
-#### Fate Grand Automata | Open-Source Contributor (1.3k stars on GitHub) & Localization Support | _(Jul. 2020 – Present, [GitHub](https://github.com/Fate-Grand-Automata/FGA))_
+---
 
-- Provided full Traditional Chinese localization materials for FOSS Android app. Top 5 contributors among ~20.
-- Submitted PRs to fix breaking changes when upstream updates by supplying assets and/or Kotlin code.
-- Provided test results to developers to assist in supporting the Taiwanese market.
+## EDUCATION
 
-> **Tech Stack**: **Kotlin** (Android App), OpenCV (Image Recognition), Android Accessibly Service (clicking/swiping)
+### Bachelor of Science in Computer Science
 
-#### Member Backend | Full Stack Developer | _(Dec. 2020 – Jul. 2021, Taipei, Taiwan)_
+_The Chinese University of Hong Kong (CUHK) (Sep 2017 – Nov 2021)_
 
-- Developed as sole developer to implement a member’s dashboard for a Taiwanese NGO with Firebase Hosting, Firebase
-  Authentication with email/Google accounts and Firebase database.
+- **Major GPA**: 3.348/4.000
+- **Honors**: Second Class Upper Division
+- **Scholarships**: CUHK Admission Scholarship, CUHK Faculty of Engineering Admission Scholarship
+- **Notable Courses**: Software Engineering (A), Data Structures (A-), Principles of Programming Languages (B+).
 
-> **Tech Stack**: **React.js** (frontend), **Firebase** (backend), **Firebase Hosting** (hosting), GitHub Actions (CI/CD)
+### Exchange
 
-#### HKTSA Official Website | Front End Developer | _(Sep. 2018 – Sep. 2019, Hong Kong)_
+_University of Hawaii at Manoa (Jan 2019 – Jun 2019)_
 
-- Owner of designing, deployment, and SEO to homepage of Hong Kong Taiwanese Students’ Association.
+---
 
-> **Tech Stack**: **HTML**, **CSS**, Firebase Hosting, SEO
+## SKILLS
+
+**Programming Languages**:  
+Java | JavaScript | Python | C | HTML | CSS | C# | Kotlin
+
+**Technologies**:  
+Spring Boot | React.js | Docker/Podman | Playwright | Terraform | Spotify Backstage | Azure DevOps | OpenShift Container Platform | Jenkins | Redmine | GitHub Actions | Apache POI | Microsoft Excel
 
 ---
 
